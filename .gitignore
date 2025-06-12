@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# dataset
+synchronized_visualization_3/
+synchronized_visualization_1/
+synchronized_visualization_2/
+synchronized_visualization/
+
 # Distribution / packaging
 .Python
 build/
