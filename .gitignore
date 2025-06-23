@@ -11,6 +11,18 @@ synchronized_visualization_3/
 synchronized_visualization_1/
 synchronized_visualization_2/
 synchronized_visualization/
+model_save/
+dataset/
+wandb/
+
+vla_dataset_insertion_250514_total/
+label_20250514_total/
+labels/
+runs/
+3D_Coordinate_label/
+# Distribution / packaging
+*.zip
+*.pt
 
 # Distribution / packaging
 .Python
